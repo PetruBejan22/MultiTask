@@ -13,4 +13,4 @@
 ##### -Random numbers -> Get random numbers from a specific range.
 
 ##### Note 1: In order to download/convert files, you need to download [ffmpeg.exe](https://www.ffmpeg.org/) and place it in Files/ffmpeg folder.
-##### Note 2: The files were written in the python learning process so they are poorly written and not well documented.
+##### Note 2: This files were written while learning Python so they have poorly variables and not well documented.
