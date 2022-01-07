@@ -1,1 +1,1 @@
-In order to download/convert files, you need to download(https://www.ffmpeg.org/) and place ffmpeg.exe in this folder.
+In order to download/convert files, you need to download ffmpeg (https://www.ffmpeg.org/) and place it in this folder.
